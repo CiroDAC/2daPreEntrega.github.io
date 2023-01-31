@@ -1,0 +1,17 @@
+
+"build-css":"node-sass-included-path scss scss/style.scss css/main.css",
+"watch-css":"nodemon -e scss -x\"npm run build-css\""
+npm run watch-css
+
+body {
+    font: size 16px;
+}
+.seccionPrincipal[
+    background-color:aquamarine;
+]
+hover 
+
+h1{
+
+}
+@import"estructura";
